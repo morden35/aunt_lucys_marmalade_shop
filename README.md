@@ -55,4 +55,11 @@ you have each made up, *we expect them to be fairly different from one another.*
   * 1 point: Correct use of one flexbox layout
   * 1 point: Correct use of one grid layout
 
-### Image Resources:
+### Image Sources:
+- https://static.wikia.nocookie.net/paddingtonbear/images/5/58/Aunt.Lucy/revision/latest/scale-to-width-down/700?cb=20150907161617
+- https://www.azgrabaplate.com/wp-content/uploads/Linzer-Cookies-Orange-Marmalade1.jpg
+- https://lh3.ggpht.com/AYVYx6n9tgvXpSAPqIq0m49kRcvKGUz1_m46cvR7breN_1fe0BlZ-a-7Jcja-saADEnqr7hbSDF4F01ACbYDqN0=s343-c-rj-v1-e365
+- https://2yx2a13lbygr1uf6rc14lkye-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/DSC9491_1-1200x795.jpg
+- https://tastesbetterfromscratch.com/wp-content/uploads/2022/01/Orange-Marmalade-13.jpg
+- https://static.wikia.nocookie.net/paddingtonbear/images/9/91/Knucles_McGinty.jpg/revision/latest?cb=20180202061112
+- https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Maramalade-French-Toast-Sandwiches_exps78994_TH132104C06_21_1bC_RMS.jpg
