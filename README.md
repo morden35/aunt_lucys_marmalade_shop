@@ -55,16 +55,4 @@ you have each made up, *we expect them to be fairly different from one another.*
   * 1 point: Correct use of one flexbox layout
   * 1 point: Correct use of one grid layout
 
-### Resources:
-- [Designing Hero Images - Smashing Magazine](https://www.smashingmagazine.com/2017/06/designing-hero-images/)
-- High-resolution background images from
-  - [Unsplash](https://unsplash.com/backgrounds/apps/website)
-  - [Burst](https://burst.shopify.com/)
-  - [Magdeleine](https://magdeleine.co/)
-  - [The Art Institute of Chicago](https://www.artic.edu/collection)
-- [FontPair](https://fontpair.co/)
-- [Color Suggestions](https://flatuicolors.com/)
-- Nonsense text generators
-  - [loremipsum.io](https://loremipsum.io/)
-  - [Riker Ipsum](http://rikeripsum.com/)
-  - [Output of a neural net trained on Erowid reports](https://github.com/gtdlk20/NN_final/tree/master/generated_texts)
+### Image Resources:
