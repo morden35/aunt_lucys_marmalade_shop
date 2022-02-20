@@ -63,3 +63,4 @@ you have each made up, *we expect them to be fairly different from one another.*
 - https://static.wikia.nocookie.net/paddingtonbear/images/9/91/Knucles_McGinty.jpg/revision/latest/scale-to-width-down/350?cb=20180202061112
 - https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Maramalade-French-Toast-Sandwiches_exps78994_TH132104C06_21_1bC_RMS.jpg
 - https://fontawesome.com/icons
+- https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/16343/bear-footprints-clipart-md.png
